@@ -16,8 +16,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Descrição
 
-A tela foi criada para informar sobre a história de Ada Lovelace e o seu grande impacto na tecnologia. 
-
+A tela foi criada para informar sobre a vida de Ada Lovelace e outras mulheres que fizeram história na tecnologia.
+ 
 - [Acesse o projeto finalizado, online](https://andresa43.github.io/Ada_Lovelace/)
 
 
