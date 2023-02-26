@@ -22,13 +22,18 @@ h1 {
 .principal li {
     display: inline-block;
     line-height: 2.5;
-    margin: 0 89px;
+    margin: 0 69px;
 }
 
 .principal ul li a {
     color: #FFFF;
     font-weight: normal;
     text-decoration: underline;
+    padding: 20px;
+}
+
+.principal ul li a:hover{
+    background-color: #8A71C9;
 }
 
 h2 {
